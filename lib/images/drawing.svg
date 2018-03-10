@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="235.17049mm"
+   height="93.778122mm"
+   viewBox="0 0 235.17048 93.778115"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="433.46898"
+     inkscape:cy="132.92511"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline;opacity:0.84500002"
+     transform="translate(1.6234018,-63.880113)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.93091965px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39827296"
+       x="39.338581"
+       y="110.39774"
+       id="text12"
+       transform="scale(0.89879293,1.1126033)"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="39.338581"
+         y="110.39774"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:76.46840668px;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';stroke-width:0.39827296">J&amp;F</tspan><tspan
+         sodipodi:role="line"
+         x="39.338581"
+         y="152.58958"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:76.46840668px;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';stroke-width:0.39827296"
+         id="tspan14" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-2.891197"
+       y="157.31648"
+       id="text18"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         x="-2.891197"
+         y="157.31648"
+         style="font-size:22.57777786px;stroke-width:0.26458332">Commercial Services</tspan></text>
+  </g>
+</svg>

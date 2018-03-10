@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="235.17049mm"
+   height="93.778122mm"
+   viewBox="0 0 235.17048 93.778115"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="J&amp;F_logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="411.87336"
+     inkscape:cy="191.93079"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline;opacity:0.84500002"
+     transform="translate(1.6234018,-63.880113)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.12266922px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37806672"
+       x="48.913239"
+       y="105.91772"
+       id="text12"
+       transform="scale(0.87074074,1.1484475)"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="48.913239"
+         y="105.91772"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:72.58880615px;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';stroke-width:0.37806672;fill:#0cda13;fill-opacity:1">J&amp;F</tspan><tspan
+         sodipodi:role="line"
+         x="48.913239"
+         y="145.96896"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:72.58880615px;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';stroke-width:0.37806672;fill:#0cda13;fill-opacity:1"
+         id="tspan14" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.04639149px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25115979"
+       x="7.6549616"
+       y="150.58224"
+       id="text18"
+       transform="scale(0.96878906,1.0322164)"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         x="7.6549616"
+         y="150.58224"
+         style="font-size:21.43230057px;fill:#0cda13;fill-opacity:1;stroke-width:0.25115979">Commercial Services</tspan></text>
+  </g>
+</svg>

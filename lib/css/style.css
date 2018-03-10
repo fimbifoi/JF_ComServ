@@ -1,0 +1,33 @@
+.image-pa {
+    background-image: url(../images/logo2.jpg);
+    transform: translate3d(0px, 0px, 0px);
+}
+.pro-badge{
+	background-color: #fff;
+	border-color: solid gray;
+	border-radius: 5px;
+	shape-outside: black;
+	padding-bottom: 10px;
+	height: 100px;
+	width: auto;
+}
+#brand-logo{
+	width: 90px;
+	height: auto;
+	border-radius: 5px;
+	border:solid white 0.0625rem;
+	padding-top: 2px;
+	padding-bottom: 0.123rem;
+	fill: #fdfdfd;
+}
+.bg-green{
+	background-color: #0cda13;
+}
+
+.carousel-images{
+	height: 22.25rem;
+	width: auto;
+}
+.bodynext{
+	padding-top: -0.75rem;
+}
