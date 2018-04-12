@@ -1,0 +1,36 @@
+h1 {
+	color: #0cda13;
+}
+
+.lead {
+	/*text-align: center;*/
+}
+.border {
+	border: 1px solid grey;
+	border-radius: 20px;
+}
+h2.display-5 {
+	padding: 30px 0 0 70px;
+	color: #0cda13;
+}
+h1.display-4 {
+	text-align: center;
+	font-weight: bold;
+}
+
+.thumbnail-ok {
+	margin-top: 30px;
+
+}
+
+.d-block {
+	height: 400px;
+	width: 100%;
+	margin-left: 1%;
+	/*margin-right: 25%*/
+}
+
+.carousel {
+	margin-left: 15%;
+	margin-right: 25%;
+}
